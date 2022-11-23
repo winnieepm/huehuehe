@@ -15,12 +15,22 @@ h3 {
 }
 
 .container {
+    margin-top: 6%;
     width: auto;
     height: auto;
     background: rgba(255, 165, 0, 0.0);
     display: flex;
     align-items: center;
     flex-direction: column;
+}
+
+.content {
+    display: flex;
+    background-color: #a379c9;
+    width: 75%;
+    margin: 3%;
+    padding: 4%;
+    justify-content: space-between;
 }
 
 .float-link {
@@ -35,15 +45,6 @@ h3 {
     display: flex;
     justify-content: space-around;
     width: 95%;
-}
-
-.main-menu {
-    display: flex;
-    background-color: #a379c9;
-    width: 75%;
-    margin: 3%;
-    padding: 4%;
-    justify-content: space-between;
 }
 
 /* NAV BAR STYLES */
