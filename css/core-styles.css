@@ -24,6 +24,10 @@ h3 {
     flex-direction: column;
 }
 
+.container-grid {
+    display: grid;
+}
+
 .content {
     display: flex;
     background-color: #a379c9;
