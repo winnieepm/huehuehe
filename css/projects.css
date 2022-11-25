@@ -9,20 +9,15 @@
 }
 
 .grid-item {
-    /* text-align: center; */
     width: 85%;
-
-
 }
 
 .personal-exp {
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: 1fr 1fr;
+    grid-template-columns: repeat(2, 1fr);  
+    grid-template-rows: 1fr;
 }
 
-.subtitle {
-    /* grid-column: 1 / span 3; */
-}
+/* .subtitle exists & is in use but is not styled yet */
 
 .teamwork {
     grid-template-columns: repeat(2, 1fr);
