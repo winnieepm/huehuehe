@@ -22,11 +22,6 @@
     transition: .5s ease;
     background-color: rgba(117, 114, 222, 0.85);
   }
-
-.text {
-    justify-content: center;
-    /* align-items: center; */
-}
 /* hover END */
 
 .content-body {
